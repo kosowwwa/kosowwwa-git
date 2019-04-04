@@ -608,3 +608,18 @@ footer .socialIconsFooter li {
   background-color: rgba(0,0,0,0.1);
   margin: 20px 0;
 }
+@media only screen and (min-width: 768px) {
+  .dhGrid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .sliderX .col {
+    margin: 20px 0;
+  }
+  .blockSupport p {
+    max-width: 90%;
+  }
+  .copyright {
+    max-width: 90%;
+  }
+}
