@@ -617,9 +617,9 @@ footer .socialIconsFooter li {
     margin: 20px 0;
   }
   .blockSupport p {
-    max-width: 90%;
+    width: 90%;
   }
-  .copyright {
+  .copyright p {
     max-width: 90%;
   }
 }
