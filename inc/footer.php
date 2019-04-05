@@ -61,7 +61,7 @@
     });
 
     typewriter.typeString('Passion, dedication, and a lot of coffee.')
-        .pauseFor(1000)
+        .pauseFor(500)
         .start();
 
 </script>
