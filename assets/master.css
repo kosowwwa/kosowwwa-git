@@ -619,6 +619,9 @@ footer .socialIconsFooter li {
   .blockSupport p {
     width: 90%;
   }
+  .blockSupport .ddhM {
+    font-size: 2em;
+  }
   .copyright p {
     padding: 0 20px;
   }
