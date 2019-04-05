@@ -620,7 +620,7 @@ footer .socialIconsFooter li {
     width: 90%;
   }
   .blockSupport .ddhM {
-    font-size: 2em;
+    font-size: 2em !important;
   }
   .copyright p {
     padding: 0 20px;
