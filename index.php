@@ -88,7 +88,7 @@
             <div class="row">
               <div class="col s12 m12 l12"><i class="material-icons">leak_add</i><span>24/7/365</span>
                 <h2 class="ddmH">Dedicated Support Team</h2>
-                <p>Kosowwwa recognizes the importance of delivering support service with not only the experience and technical knowledge but also with the understanding of our client's compliance requirments. Our support team of experienced and dedicated consultants is comitted to delivering timely resonse.</p><a href="https://www.kosowwwa.com/crm/index.php/tickets" class="chatNow">Support Desk</a>
+                <p>Kosowwwa recognizes the importance of delivering support service with not only the experience and technical knowledge but also with the understanding of our client's compliance requirments. Our support team of experienced and dedicated consultants is comitted to delivering timely resonse.</p><a href="https://crm.kosowwwa.com/index.php/tickets" class="chatNow">Support Desk</a>
               </div>
             </div>
           </div>
