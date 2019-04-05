@@ -620,6 +620,6 @@ footer .socialIconsFooter li {
     width: 90%;
   }
   .copyright p {
-    max-width: 90%;
+    padding: 0 20px;
   }
 }
